@@ -10,7 +10,7 @@ from langchain.chat_models import init_chat_model
 load_dotenv()
 st.set_page_config(page_title="Barai PictoChat", page_icon="📸", layout="centered")
 st.title("📸")
-st.title("PictoChat - Ask About Your Image")
+st.title("Barai PictoChat - Ask About Your Image")
 st.markdown(
     """
     <style>
