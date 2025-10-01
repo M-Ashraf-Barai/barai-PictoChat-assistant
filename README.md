@@ -31,15 +31,18 @@ It supports **automatic `.env` API key validation** and provides a **fallback op
    # OR using HTTPS
    git clone https://github.com/M-Ashraf-Barai/barai-PictoChat-assistant.git
 
-# Setup UV if not already: 
+## Setup UV if not already: 
 
-1- pip install uv
-2- run uv sync to install packages and dependencies with same versions that repo has
+ 
+```
+pip install uv
+```
+    2- run uv sync to install packages and dependencies with same versions that repo has
 
 ```
 uv sync
 ```
 
 GROQ_API_KEY=your_groq_api_key_here
-# Start application:
+## Start application:
 streamlit run main.py
