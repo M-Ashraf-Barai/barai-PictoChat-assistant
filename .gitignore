@@ -18,8 +18,7 @@ venv/
 .env
 *.env
 
-# Streamlit specific
-.streamlit/
+
 
 # VSCode / IDE settings
 .vscode/
