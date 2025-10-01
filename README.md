@@ -31,13 +31,13 @@ It supports **automatic `.env` API key validation** and provides a **fallback op
    # OR using HTTPS
    git clone https://github.com/M-Ashraf-Barai/barai-PictoChat-assistant.git
 
-## Setup UV if not already: 
+2. **Setup UV if not already** 
 
  
 ```
 pip install uv
 ```
-    2- run uv sync to install packages and dependencies with same versions that repo has
+3. **run uv sync to install packages and dependencies with same versions that repo has**    
 
 ```
 uv sync
